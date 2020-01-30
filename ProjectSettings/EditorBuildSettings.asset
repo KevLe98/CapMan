@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 73fb1faf207325848a661a60c97a6b64
+  - enabled: 1
+    path: Assets/Scenes/Kevin1_GhostAI 1.unity
+    guid: f2b6a108446e0a34e88ca3654f8ac203
+  - enabled: 1
+    path: Assets/Scenes/Kevin1_GhostAI 2.unity
+    guid: a99854b88d519b14db778da25512e3f1
+  - enabled: 1
+    path: Assets/Scenes/Info.unity
+    guid: eacf3f75b89f51244b0c5f03166d9521
+  m_configObjects: {}
